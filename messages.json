@@ -1,40 +1,42 @@
-"data": {
-	"topics": [ 
-		{
-			"name": "topic 1",
-			"lastUpdatedAt": 1698421361,
-			"messages": [
-				{
-					"timestamp": 1698425431,
-					"text": "this is first message"
-				},
-				{
-					"timestamp": 1698424361,
-					"text": "message new"
-				},
-				{
-					"timestamp": 1698425261,
-					"text": "message tree"
-				},
-				{
-					"timestamp": 1698425322,
-					"text": "message 1698425361368"
-				},
-				{
-					"timestamp": 1698425310,
-					"text": "and the last one"
-				},
-			]
-		},
-		{
-			"name": "topic 2",
-			"lastUpdatedAt": 1698221361,
-			"messages": [
-				{
-					"timestamp": 1698421431,
-					"text": "hahahahahah"
-				},
-			]
-		}
-	]
+{
+	"data": {
+		"topics": [ 
+			{
+				"name": "topic 1",
+				"lastUpdatedAt": 1698421361,
+				"messages": [
+					{
+						"timestamp": 1698425431,
+						"text": "this is first message"
+					},
+					{
+						"timestamp": 1698424361,
+						"text": "message new"
+					},
+					{
+						"timestamp": 1698425261,
+						"text": "message tree"
+					},
+					{
+						"timestamp": 1698425322,
+						"text": "message 1698425361368"
+					},
+					{
+						"timestamp": 1698425310,
+						"text": "and the last one"
+					},
+				]
+			},
+			{
+				"name": "topic 2",
+				"lastUpdatedAt": 1698221361,
+				"messages": [
+					{
+						"timestamp": 1698421431,
+						"text": "hahahahahah"
+					},
+				]
+			}
+		]
+	}
 }
