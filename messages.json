@@ -3,36 +3,36 @@
 		"topics": [ 
 			{
 				"name": "topic 1",
-				"lastUpdatedAt": 1698421361,
+				"lastUpdatedAt": 1698421361000,
 				"messages": [
 					{
-						"timestamp": 1698425431,
+						"timestamp": 1698425431000,
 						"text": "this is first message"
 					},
 					{
-						"timestamp": 1698424361,
+						"timestamp": 1698424361000,
 						"text": "message new"
 					},
 					{
-						"timestamp": 1698425261,
+						"timestamp": 1698425261000,
 						"text": "message tree"
 					},
 					{
-						"timestamp": 1698425322,
+						"timestamp": 1698425322000,
 						"text": "message 1698425361368"
 					},
 					{
-						"timestamp": 1698425310,
+						"timestamp": 1698425310000,
 						"text": "and the last one"
 					},
 				]
 			},
 			{
 				"name": "topic 2",
-				"lastUpdatedAt": 1698221361,
+				"lastUpdatedAt": 1698221361000,
 				"messages": [
 					{
-						"timestamp": 1698421431,
+						"timestamp": 1698421431000,
 						"text": "hahahahahah"
 					},
 				]
